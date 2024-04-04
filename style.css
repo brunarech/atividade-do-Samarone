@@ -1,0 +1,19 @@
+div{
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 10px -16px black;
+}
+.principal{
+    height: 100px;
+    width: 100px;
+    background-color: aqua(160,226,)
+}
+.principal1{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine(230,65,3)
+
+
+
+}
